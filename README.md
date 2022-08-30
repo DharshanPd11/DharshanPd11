@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DharshanPd11
-- 👀 I’m interested in AI, ML
-- 🌱 I’m currently learning Machine Learning concepts 
-- 💞️ I’m looking to collaborate on ML based projects 
+- 🙋🏻‍♂️ Hi, I’m @DharshanPd11
+- ⭕ I’m interested in AI, ML
+- 🤍 I’m currently learning Machine Learning concepts 
+- ✨ I’m looking to collaborate on ML based projects 
 - 📫 How to reach me : email: priyadharshanraja@gmail.com
 
 <!---

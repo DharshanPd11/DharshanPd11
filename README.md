@@ -1,4 +1,4 @@
-- 🙋🏻‍♂️ Hi, I’m @DharshanPd11
+- 🙋🏻‍♂️ Hi, I’m Priyadharshan Raja
 - A Passionate Software Engineer
 - ⭕ Interested in Web/App Development and ML
 - 🤍 A budding Machine Learning Geek

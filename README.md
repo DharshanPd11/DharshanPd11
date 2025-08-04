@@ -1,6 +1,6 @@
 - 🙋🏻‍♂️ Hi, I’m Priyadharshan Raja
 - A Passionate Software Engineer
-- ⭕ Interested in Web/App Development and ML
+- ⭕ Interested in Mobile Development - iOS/ Backend Development and Machine Learning
 - 🤍 A budding Machine Learning Geek
 - 📫 Reach me : email: priyadharshanraja@gmail.com
 
